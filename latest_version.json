@@ -1,4 +1,4 @@
 {
-  "disable_loader":True,
-  "auto_update_url":"https://github.com/mertallenxd/loader_update"
+  "disable_loader": "True",
+  "auto_update_url": "https://github.com/mertallenxd/loader_update/blob/main/latest_version.json"
 }
